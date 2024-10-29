@@ -1,0 +1,21 @@
+.one-piece-img{
+width: 8vw;
+height: 16vh;
+}
+#nav-header{
+display: flex;
+justify-content: space-evenly !important;
+background-color: rgb(255, 255, 255) !important;
+
+}
+.img-region {
+    width: 30vw;
+}
+.carrossel-section{
+    
+}
+.section-cards{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10vh;
+}
